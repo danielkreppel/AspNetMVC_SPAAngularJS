@@ -1,0 +1,34 @@
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\NLog.config
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\Data.dll.config
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\Data.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\Data.pdb
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\Application.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\Dapper.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\Domain.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\NLog.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\AutoMapper.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\Application.pdb
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\Domain.pdb
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\Dapper.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\NLog.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\bin\Debug\AutoMapper.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\obj\Debug\Data.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Data\obj\Debug\Data.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\NLog.config
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\Data.dll.config
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\Data.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\Data.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\Application.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\Dapper.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\Domain.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\NLog.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\AutoMapper.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\Application.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\Domain.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\Dapper.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\NLog.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\bin\Debug\AutoMapper.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\obj\Debug\Data.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Data\obj\Debug\Data.pdb

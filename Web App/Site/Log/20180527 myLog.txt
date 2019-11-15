@@ -1,0 +1,2 @@
+2018-05-27 22:09:54.1145|ERROR|Tstando logger|
+2018-05-27 22:09:54.1934|ERROR|Referência de objeto não definida para uma instância de um objeto.|

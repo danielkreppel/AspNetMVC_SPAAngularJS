@@ -1,0 +1,19 @@
+﻿using Application.Log.Contract;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+using NLog;
+
+namespace Application.Log.Concrete
+{
+    public class Log : ILog
+    {
+        public void LogError(Exception ex)
+        {
+            var logger = NLog.LogManager.GetCurrentClassLogger();
+            logger.Error(ex.Message);
+        }
+    }
+}

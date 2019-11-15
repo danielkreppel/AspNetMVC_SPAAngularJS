@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html ng-app="MainModule">
+<head>
+    <base href="/" />
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    @Styles.Render("~/Content/css")
+
+    @Scripts.Render("~/bundles/jquery")
+    @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/bootstrap")
+
+    @Scripts.Render("~/bundles/scripts")
+    @Scripts.Render("~/bundles/angular")
+    
+</head>
+<body>
+    <div class="row"></div>
+    <div ng-controller="LayoutController">
+        <ul class="nav nav-tabs nav-justified" role="tablist">
+            <li role="presentation" ng-class="getClass('/planovoo')"><a href="#!planovoo"><i class="fa fa-globe" style="padding-right:5px"></i>Planos de Voo</a></li>
+            <li role="presentation" ng-class="getClass('/aeroportos')"><a href="#!aeroportos"><i class="fa fa-suitcase" style="padding-right:5px"></i>Aeroportos</a></li>
+            <li role="presentation" ng-class="getClass('/aeronaves')"><a href="#!aeronaves"><i class="fa fa-plane" style="padding-right:5px"></i>Aeronaves</a></li>
+            <li role="presentation" ng-class="getClass('/tiposaeronaves')"><a href="#!tiposaeronaves"><i class="fa fa-list" style="padding-right:5px"></i>Tipos Aeronaves</a></li>
+        </ul>
+    </div>
+    
+    @RenderBody()
+    
+    @RenderSection("scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,22 @@
+2019-11-16 00:50:26.5847|ERROR|Cannot open database "TestDB" requested by the login. The login failed.
+Login failed for user 'exec'.|
+2019-11-16 00:50:26.5847|ERROR|Cannot open database "TestDB" requested by the login. The login failed.
+Login failed for user 'exec'.|
+2019-11-16 00:50:26.5847|ERROR|Cannot open database "TestDB" requested by the login. The login failed.
+Login failed for user 'exec'.|
+2019-11-16 00:50:26.6654|ERROR|Cannot open database "TestDB" requested by the login. The login failed.
+Login failed for user 'exec'.|
+2019-11-16 00:50:26.6964|ERROR|Referência de objeto não definida para uma instância de um objeto.|
+2019-11-16 00:50:26.7203|ERROR|Referência de objeto não definida para uma instância de um objeto.|
+2019-11-16 00:50:26.7442|ERROR|Referência de objeto não definida para uma instância de um objeto.|
+2019-11-16 00:50:38.0888|ERROR|Cannot open database "TestDB" requested by the login. The login failed.
+Login failed for user 'exec'.|
+2019-11-16 00:50:38.1127|ERROR|Cannot open database "TestDB" requested by the login. The login failed.
+Login failed for user 'exec'.|
+2019-11-16 00:50:38.1383|ERROR|Cannot open database "TestDB" requested by the login. The login failed.
+Login failed for user 'exec'.|
+2019-11-16 00:50:38.1623|ERROR|Cannot open database "TestDB" requested by the login. The login failed.
+Login failed for user 'exec'.|
+2019-11-16 00:50:38.2101|ERROR|Referência de objeto não definida para uma instância de um objeto.|
+2019-11-16 00:50:38.2331|ERROR|Referência de objeto não definida para uma instância de um objeto.|
+2019-11-16 00:50:38.2331|ERROR|Referência de objeto não definida para uma instância de um objeto.|

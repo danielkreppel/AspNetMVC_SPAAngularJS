@@ -1,0 +1,206 @@
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\csc.exe
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\vbc.exe
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\Site.dll.config
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\Site.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\Site.pdb
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\Antlr3.Runtime.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\Newtonsoft.Json.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Net.Http.Formatting.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Helpers.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Http.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Http.WebHost.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Mvc.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Optimization.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Razor.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.WebPages.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\WebGrease.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\Newtonsoft.Json.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Net.Http.Formatting.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Helpers.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Http.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Http.WebHost.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Mvc.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Optimization.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.Razor.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.WebPages.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\bin\Antlr3.Runtime.pdb
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\obj\Debug\Site.dll
+C:\Users\VIJAIPANTBK0030\Documents\CONFAB\Auxiliares\C#\Site\Site\obj\Debug\Site.pdb
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\csc.exe
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\vbc.exe
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Site.dll.config
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Site.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Site.pdb
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Antlr3.Runtime.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Dapper.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Newtonsoft.Json.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Net.Http.Formatting.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Helpers.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Http.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Http.WebHost.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Mvc.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Optimization.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Razor.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\WebGrease.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Dapper.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Newtonsoft.Json.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Net.Http.Formatting.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Helpers.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Http.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Http.WebHost.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Mvc.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Optimization.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Razor.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\bin\Antlr3.Runtime.pdb
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\obj\Debug\Site.dll
+C:\Users\Vija\Documents\Valmir-Gerenciar Recursos\Site\Site\obj\Debug\Site.pdb
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\csc.exe
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\vbc.exe
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Site.dll.config
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Site.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Site.pdb
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Antlr3.Runtime.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Dapper.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Newtonsoft.Json.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Net.Http.Formatting.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Helpers.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Http.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Http.WebHost.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Mvc.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Optimization.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Razor.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.WebPages.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\WebGrease.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Dapper.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Newtonsoft.Json.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Net.Http.Formatting.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Helpers.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Http.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Http.WebHost.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Mvc.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Optimization.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.Razor.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.WebPages.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\bin\Antlr3.Runtime.pdb
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\obj\Debug\Site.csprojResolveAssemblyReference.cache
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\obj\Debug\Site.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\obj\Debug\Site.dll
+C:\Users\daniel\Documents\Desenvolvimento\Site\Site\obj\Debug\Site.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\csc.exe
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\vbc.exe
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Site.dll.config
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Site.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Site.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Dapper.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Http.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Razor.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\WebGrease.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Dapper.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Http.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.Razor.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\obj\Debug\Site.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\obj\Debug\Site.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\CommonServiceLocator.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.Abstractions.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.Configuration.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.Container.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.Interception.Configuration.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.Interception.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.RegistrationByConvention.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.ServiceLocation.dll
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\CommonServiceLocator.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.Abstractions.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.Configuration.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.Container.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.Interception.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.Interception.Configuration.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.RegistrationByConvention.pdb
+C:\Users\Usuario\Documents\CONFAB\Demandas\Valmir-Gerenciar Recursos\Site\Site\bin\Unity.ServiceLocation.pdb

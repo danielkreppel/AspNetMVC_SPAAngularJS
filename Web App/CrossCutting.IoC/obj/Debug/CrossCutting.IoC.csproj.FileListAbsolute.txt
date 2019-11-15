@@ -1,0 +1,94 @@
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\NLog.config
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\CrossCutting.IoC.dll.config
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\CrossCutting.IoC.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\CrossCutting.IoC.pdb
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Application.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\AutoMapper.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Data.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Domain.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Service.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.Helpers.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.Http.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.Mvc.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.Razor.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\WebActivatorEx.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\NLog.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Dapper.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Application.pdb
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Data.pdb
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Domain.pdb
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Service.pdb
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\AutoMapper.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.Helpers.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.Http.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.Mvc.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.Razor.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\NLog.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\bin\Debug\Dapper.xml
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\obj\Debug\CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\obj\Debug\CrossCutting.IoC.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\CrossCutting.IoC\obj\Debug\CrossCutting.IoC.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\NLog.config
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\CrossCutting.IoC.dll.config
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\CrossCutting.IoC.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\CrossCutting.IoC.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Application.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\AutoMapper.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Data.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Domain.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Service.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\SimpleInjector.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.WebApi.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.Helpers.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.Http.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.Mvc.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.Razor.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.Deployment.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.Razor.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\WebActivatorEx.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\NLog.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Dapper.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Application.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Data.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Domain.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Service.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\AutoMapper.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\SimpleInjector.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\SimpleInjector.Integration.WebApi.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.Helpers.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.Http.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.Mvc.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.Razor.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.Deployment.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\System.Web.WebPages.Razor.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\NLog.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\bin\Debug\Dapper.xml
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\obj\Debug\CrossCutting.IoC.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\obj\Debug\CrossCutting.IoC.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\CrossCutting.IoC\obj\Debug\CrossCutting.IoC.pdb

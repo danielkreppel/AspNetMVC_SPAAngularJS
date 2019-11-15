@@ -1,0 +1,95 @@
+﻿.GridView
+{
+	height:auto;
+	border: raised;
+	background-color: #FFFFFF;	
+}
+
+.GridView_HeaderStyle 
+{
+    background-color:#CCD9CC;
+    font-family:Verdana;
+    font-weight:bold;
+    font-size:10pt;
+    color:#003366;
+}
+
+.GridView_RowStyle
+{
+    background-color: #E5E5E5;
+    color: #000000;
+    font-family:Verdana;
+    font-size: 10pt;
+    font-weight:bold;
+    height:20px;
+}
+
+.GridView_AlternatingRowStyle
+{
+    background-color: #FFFFFF;
+    color: #000000;
+    font-family:Verdana;
+    font-size: 10pt;
+    font-weight:bold;
+    height:20px;
+}
+
+.GridView_SelectedRowStyle
+{
+    background-color: #660066;
+    color: #FFFFFF;
+    font-family:Verdana;
+    font-size: 10pt;
+    font-weight:bold;
+    height:20px;
+}
+
+.GridView_EditRowStyle
+{
+	background-color:#ffffdd;
+	color : blue;
+	border: solid 1px #c0c0c0;
+	height: 20px;
+	margin:0px;
+	padding:0px;
+	font-family: verdana;
+	font-size:	8pt;
+	text-align: center;
+}
+
+.GridView_AlternatingSelectedRowStyle
+{
+	background-color:Blue;
+	color:White;
+	border: solid 1px #c0c0c0;
+	height: 20px;
+	margin: 0px;
+	padding: 0px;
+	font-family:Verdana;
+	font-size:8pt;
+	text-align: center;	
+}
+
+.GridView_FooterStyle
+{
+    font-family:Verdana;
+    color:#CC0066;
+    font-size:9px;
+    font-style:normal;
+    
+    background-color: #F3F3F3;
+    
+    border-style:solid;
+ }
+ 
+ .GridView_PagerStyle
+ {
+    font-family:Verdana;
+    color:#CC0066;
+    font-size:9px;
+    font-style:normal;
+    
+    background-color: #F3F3F3;
+    
+    border-style:solid;
+ }

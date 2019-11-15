@@ -1,0 +1,105 @@
+﻿
+<div class="well text-center"><i class="fa fa-globe"><span style="padding-left:5px">Planos de Vôo</span></i></div>
+
+<form name="FormPlanoVoo">
+
+    <div class="container-fluid">
+        <section class="container">
+            <div class="container-page">
+                <fieldset>
+                    <legend class="text-center">Cadastro</legend>
+
+                    <div class="form-group col-lg-3">
+                        <label>Número:</label>
+                        <input type="text" name="txtNumero" maxlength="7" class="form-control" id="txtNumero" ng-model="PlanoVoo.NumeroVoo" style="text-transform:uppercase">
+                    </div>
+
+                    <div class="form-group col-lg-3">
+                        <label>Matrícula Aeronave:</label>
+                        <select name="sltMatricula" class="form-control" id="sltMatricula" ng-model="AeronaveSelecionada" chosen options="MatriculasAeronaves" ng-options="option.Matricula for option in MatriculasAeronaves" data-placeholder="Selecione">
+                        </select>
+                    </div>
+
+                    <div class="form-group col-lg-3">
+                        <label>Tipo da Aeronave:</label>
+                        <input type="text" name="txtTipoAeronave" disabled class="form-control" id="txtTipoAeronave" ng-model="AeronaveSelecionada.TipoAeronave">
+                    </div>
+
+                    <div class="form-group col-lg-3">
+                        <label>Aeroporto Origem:</label>
+                        <select name="sltOrigem" class="form-control" id="sltOrigem" ng-model="AeroportoOrigemSelecionado" chosen options="Aeroportos" ng-options="option.Sigla for option in Aeroportos track by option.IdAeroporto" data-placeholder="Selecione"></select>
+                    </div>
+
+                    <div class="form-group col-lg-3">
+                        <label>Aeroporto Destino:</label>
+                        <select name="sltDestino" class="form-control" id="sltDestino" ng-model="AeroportoDestinoSelecionado" chosen options="Aeroportos" ng-options="option.Sigla for option in Aeroportos track by option.IdAeroporto" data-placeholder="Selecione"></select>
+                    </div>
+
+                    <div class="form-group col-lg-4">
+                        <label>Data:</label>
+                        <div class="row"></div>
+                        <input name="Data" class="input-sm EstiloData" type="text" value="" ng-model="PlanoVoo.Data" id="Data" readonly/>
+                    </div>
+
+                    <div class="row"></div>
+                    <div ng-if="PlanoVoo.IdPlanoVoo == 0" class="form-group col-lg-12">
+                        <div class="text-center">
+                            <button class="btn btn-primary" ng-click="SalvarPlanoVoo()"><i class="fa fa-save" style="padding-right:10px"></i>Adicionar Plano de Vôo</button>
+                        </div>
+                    </div>
+                    <div ng-if="PlanoVoo.IdPlanoVoo != 0" class="form-group col-lg-12">
+                        <div class="text-center">
+                            <button class="btn btn-primary" ng-click="SalvarPlanoVoo()"><i class="fa fa-save" style="padding-right:10px"></i>Alterar Plano de Vôo</button>
+                            <button class="btn btn-warning" ng-click="CancelarEdicao()"><i class="fa fa-close" style="padding-right:10px"></i>Cancelar Edição</button>
+                        </div>
+                    </div>
+                </fieldset>
+            </div>
+        </section>
+    </div>
+    <hr />
+    <div class="container-fluid">
+        <section class="container">
+            <div class="container-page">
+                <fieldset>
+                    <legend class="text-center">Planos de Vôo</legend>
+                    <div class="col-lg-12 text-center">
+                        <label>Origem:</label>
+                        <input type="text" id="txtPesquisarOrigem" ng-keyup="txtPesquisarOrigemDestinoChanged()" placeholder="Pesquisar Origem" />
+                        <label>Destino:</label>
+                        <input type="text" id="txtPesquisarDestino" ng-keyup="txtPesquisarOrigemDestinoChanged()" placeholder="Pesquisar Destino" />
+                    </div>
+                    <hr/>
+                    <div class="col-lg-12">
+                        <table datatable="ng" class="table table-bordered row-border hover" id="tbPlanosVoos">
+                            <thead class="GridView_HeaderStyle">
+                                <tr>
+                                    <th width="15%">Número</th>
+                                    <th width="15%">Matrícula</th>
+                                    <th width="15%">Tipo Aeronave</th>
+                                    <th width="15%">Data</th>
+                                    <th width="15%">Origem</th>
+                                    <th width="15%">Destino</th>
+                                    <th width="5%">Editar</th>
+                                    <th width="5%">Excluir</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr ng-repeat="p in PlanosVooGrid" style="cursor:pointer">
+                                    <td width="15%">{{ p.NumeroVoo }}</td>
+                                    <td width="15%">{{ p.Matricula }}</td>
+                                    <td width="15%">{{ p.TipoAeronave }}</td>
+                                    <td width="20%">{{ p.DataFormatada }}</td>
+                                    <td width="15%">{{ p.Origem }}</td>
+                                    <td width="15%">{{ p.Destino }}</td>
+                                    <td><button class="btn btn-primary" ng-click="EditarPlanoVoo(p)"><i class="fa fa-edit"></i></button></td>
+                                    <td><button class="btn btn-primary" ng-confirm-click="Tem certeza que deseja excluir?" confirmed-click="ExcluirPlanoVoo(p)"><i class="fa fa-trash"></i></button></td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </div>
+                </fieldset>
+            </div>
+        </section>
+    </div>
+</form>

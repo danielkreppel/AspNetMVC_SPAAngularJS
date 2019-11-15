@@ -1,0 +1,14 @@
+2018-05-28 16:10:37.5202|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 16:11:17.5583|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 16:13:25.4650|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 16:15:52.1553|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 16:16:44.3035|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 17:25:16.6018|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 17:25:51.0700|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 17:26:19.7178|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 17:27:23.1155|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 17:28:23.3156|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 17:32:15.0967|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 17:36:25.8484|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 19:48:03.4908|ERROR|Já existe um Plano de Vôo com este número|
+2018-05-28 20:30:25.9718|ERROR|Já existe um Plano de Vôo com este número|

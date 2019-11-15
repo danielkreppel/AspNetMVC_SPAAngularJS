@@ -1,0 +1,10 @@
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Domain\bin\Debug\Domain.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Domain\bin\Debug\Domain.pdb
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Domain\obj\Debug\Domain.dll
+C:\Users\Pc\Documents\Desenvolvimento\Saipher Teste\Saipher Web App\Domain\obj\Debug\Domain.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Domain\bin\Debug\Domain.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Domain\bin\Debug\Domain.pdb
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Domain\obj\Debug\Domain.dll
+C:\Users\Pc\Documents\Desenvolvimento\AspNetMVC_SPAAngularJS\Web App\Domain\obj\Debug\Domain.pdb

@@ -1,0 +1,7 @@
+.ngdialog.ngdialog-theme-plain.custom-width .ngdialog-content {
+    width: 500px;
+}
+
+.ngdialog-custom-width-1000px .ngdialog-content {
+    width: 1000px !important;
+}

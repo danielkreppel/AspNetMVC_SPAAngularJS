@@ -1,0 +1,7 @@
+2018-05-27 23:39:40.3853|ERROR|Could not find stored procedure 'BUSCAR_AERONAVES'.|
+2018-05-27 23:39:40.3853|ERROR|Could not find stored procedure 'BUSCAR_PLANO_VOO'.|
+2018-05-27 23:39:40.3853|ERROR|Could not find stored procedure 'BUSCAR_AEROPORTOS'.|
+2018-05-27 23:39:40.4555|ERROR|Could not find stored procedure 'BUSCAR_TIPOS_AERONAVES'.|
+2018-05-27 23:39:40.4926|ERROR|Referência de objeto não definida para uma instância de um objeto.|
+2018-05-27 23:39:40.5026|ERROR|Referência de objeto não definida para uma instância de um objeto.|
+2018-05-27 23:39:40.5236|ERROR|Referência de objeto não definida para uma instância de um objeto.|
