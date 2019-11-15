@@ -48,6 +48,8 @@ Testes Unitários (Projeto "Tests")
 Para rodar a aplicação:
 
 1- Executar o script para criar o Banco de dados, tabelas, procedures e dados básicos para testes no SQL Server.
+
 2- Criar um usuário com permissão de acesso ao banco de dados recém criado e atualizar a Connectionstring no Web.config do projeto "Web" para incluir este usuário e  a senha.
+
 3- Abrir o fonte no Visual Studio 2015 ou superior, executar a aplicação marcando o projeto Web como "Startup Project" e acessar a URL (Rota) "http://localhost:<porta gerada>/".
     Ou pode publicar a aplicação e registrá-la no IIS. Para publicar deve-se clicar com o botão direito sobre o projeto Web e selecionar "Publish", escolher o local onde quer armazenar os arquivos e o tipo de publicação (Debug ou Release). Após a geração dos arquivos, deve-se abrir o gerenciador do IIS nas Ferramentas Administrativas e criar um novo Web Site/Aplicação apontando para os arquivos publicados do projeto Web. 
